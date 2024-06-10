@@ -1,3 +1,4 @@
 streamlit-agraph
 SPARQLWrapper
 sklearn
+nltk
